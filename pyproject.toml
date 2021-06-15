@@ -9,7 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.6"
 hug = "^2.6"
-mkdocs = "^1.0"
+mkdocs = "~1.1"
 pdocs = "^1.0.2"
 toml = "^0.10.0"
 mkdocs-material = "^5.0"
